@@ -1,0 +1,32 @@
+html, body{
+	margin: 0;
+}
+
+header{
+	background-color: #541e1e;
+	background-size: 50%
+	padding: 50px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px; 
+	color: #76c4e2;
+}
+
+header img{
+	border-radius: 150px;
+	border: 5px solid white;
+}
+
+footer{
+	font-size: 13px;
+	color: gray;
+	padding: 0.04px 0.02px;
+}
+
+/*<header>
+	<h1 font-size: 90px; color: white; align="center">Polly Barnes</h1>
+	<img src="https://lh3.googleusercontent.com/BylL9sWvd2nLNA00u6xd3woCCBFFerkEwkM-9obO1HwtsI5hV6MbG9WGDlvzKhqQWkGFIc9ENJlpH0NQlLe_SgGF9LPolwdbN_MVewi0-WDuhf2oyksJ_dsY5rXFpgc3jzrgaKEfD4nMT7pWKdPOEBWelzbu8TlejAXv98famQ9xA4qztW0C9ICluJqy7sb7HP3lYT_6RhodOm-G2Wymy1ijIAIN2C8krJRW3csXe4ygsKZOueWsdAXi-Gwv1MmYIzkLqgoecRcWXP3DS2g8MZ1rRXJAb0CGPbyw3xIM_eVqZLRvQ1VxlERBWxqTAj6LdU_XyD5_-Bg-2kbjUjJbydB9wRsXeKd_qVBZ-x4rOP544QeDbFgKRbU4tKFcRcu2vujhTTXQlvp2ImdQQmqW-fJqpiMDBJ1akrdda7rthhjLNfZuxir4rkv3911NqIR2mKbWv7yZqgXJwv0A43hi6L_aKRgIDK8R-nCCH-oVGwf_ThnYBj9vU2LadBSOC0sMJPEblZqyaNBWKGR2zXfHudP4z-2qo_LymuilLFsVwWkbG6uiFwr6r9RmifSzOVtYU8jrcfFRE-SLSmvHGPNG-Fh1XUvfrUZGO_hSYiCp=w517-h739-no">
+	<h2>Need Anything for a Party? Ask Polly.</h2>
+</header>*/
